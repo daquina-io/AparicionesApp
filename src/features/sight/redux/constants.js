@@ -1,0 +1,1 @@
+export const SIGHT_TEST_ACTION = 'SIGHT_TEST_ACTION';
